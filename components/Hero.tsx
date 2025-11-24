@@ -99,7 +99,7 @@ const Hero: React.FC = () => {
                 <p className="text-slate-500 text-sm mb-4">
                   Invite me to energize your next offsite, leadership summit, or company-wide event.
                 </p>
-                <a href="mailto:boaz@boazashkenazy.com" className="group flex items-center text-slate-900 font-semibold border border-slate-300 px-6 py-3 rounded-full hover:border-slate-900 transition-all">
+                <a href="mailto:boaz@boazashkenazy.com?subject=Speaking Inquiry&body=Hi Boaz,%0D%0A%0D%0AI'm interested in having you speak at our event. Please let me know your availability.%0D%0A%0D%0AThanks!" className="group flex items-center text-slate-900 font-semibold border border-slate-300 px-6 py-3 rounded-full hover:border-slate-900 transition-all">
                   Invite me to speak
                   <ArrowRight className="ml-2 w-4 h-4 group-hover:translate-x-1 transition-transform" />
                 </a>

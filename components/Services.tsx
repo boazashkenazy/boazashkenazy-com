@@ -112,7 +112,7 @@ const Services: React.FC = () => {
                     </div>
                 </div>
 
-                <a href="mailto:boaz@boazashkenazy.com" className="inline-flex items-center bg-white text-brand-blue px-6 py-3 rounded-full font-medium hover:bg-blue-50 transition-colors">
+                <a href="mailto:boaz@boazashkenazy.com?subject=Speaking Inquiry&body=Hi Boaz,%0D%0A%0D%0AI'm interested in having you speak at our event. Please let me know your availability.%0D%0A%0D%0AThanks!" className="inline-flex items-center bg-white text-brand-blue px-6 py-3 rounded-full font-medium hover:bg-blue-50 transition-colors">
                     Invite me to speak
                     <ArrowRight className="ml-2 w-4 h-4" />
                 </a>

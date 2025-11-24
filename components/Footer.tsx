@@ -66,7 +66,7 @@ const Footer: React.FC = () => {
 
         <div className="border-t border-slate-100 pt-12">
              <p className="text-slate-800 font-medium mb-4">Want me to bring this to your team?</p>
-             <a href="mailto:boaz@boazashkenazy.com" className="inline-block text-sm font-semibold border border-slate-300 px-6 py-2 rounded-md hover:bg-slate-50 transition-colors">
+             <a href="mailto:boaz@boazashkenazy.com?subject=Speaking Inquiry&body=Hi Boaz,%0D%0A%0D%0AI'm interested in having you speak at our event. Please let me know your availability.%0D%0A%0D%0AThanks!" className="inline-block text-sm font-semibold border border-slate-300 px-6 py-2 rounded-md hover:bg-slate-50 transition-colors">
                 Invite me to speak
              </a>
         </div>
