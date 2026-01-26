@@ -24,7 +24,7 @@ const SocialProof: React.FC = () => {
         </div>
         
         <div className="max-w-3xl mx-auto space-y-2 mt-16">
-            <p className="text-sm font-semibold tracking-wide uppercase text-slate-500">
+            <p className="text-sm font-semibold tracking-wide uppercase text-slate-500 whitespace-nowrap">
                 Senior Director AI Infra @ Redapt | Co-founder Augmented AI Labs, Clause, SuperSmall | Former Meta PM
             </p>
             <p className="text-slate-500 text-sm">

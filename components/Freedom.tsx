@@ -6,19 +6,19 @@ const Freedom: React.FC = () => {
     <section className="py-10 md:py-16 bg-white text-center">
       <div className="max-w-4xl mx-auto px-6 space-y-12 md:space-y-16">
         <h2 className="text-4xl md:text-6xl font-serif text-slate-900">
-            Scale without headcount.
-        </h2>
-        
-        <h2 className="text-4xl md:text-6xl font-serif text-slate-900">
-            Put deep work first.
-        </h2>
-        
-        <h2 className="text-4xl md:text-6xl font-serif text-slate-900">
-            Experiment endlessly.
+            Scale through systems.
         </h2>
 
         <h2 className="text-4xl md:text-6xl font-serif text-slate-900">
-            Build a network that lasts.
+            Prioritize durable architecture.
+        </h2>
+
+        <h2 className="text-4xl md:text-6xl font-serif text-slate-900">
+            Experiment safely.
+        </h2>
+
+        <h2 className="text-4xl md:text-6xl font-serif text-slate-900">
+            Build a network that endures.
         </h2>
 
         <div className="pt-12 flex justify-center text-slate-300">

@@ -16,47 +16,59 @@ const About: React.FC = () => {
         </div>
 
         <h2 className="font-serif text-3xl md:text-4xl mb-6">
-          Hi—I’m Boaz. I help leaders bring startup-grade AI and energy into their teams.
+          Hi — I'm Boaz. I help enterprise leaders move AI from intention to impact.
         </h2>
-
-        {/* <p className="text-blue-400 text-sm font-medium tracking-widest uppercase mb-12">
-          [ An open letter to leaders who still want to build like founders ]
-        </p> */}
 
         <div className="space-y-8 text-slate-300 text-lg leading-relaxed text-left md:text-center font-light">
           <p>
-            Using AI as a leader isn’t about chasing every new tool.
+            Using AI well isn't about chasing tools — and it isn't just about infrastructure either.
+            It's about aligning how people work with systems that can actually support AI at scale.
           </p>
           <p>
-            It’s about understanding how to leverage the right ones and investing in the relationships that actually move the needle.
+            For years, I've worked on the application and adoption side of AI — helping teams experiment, build, and integrate AI into real workflows. Today, I'm going deeper into the enterprise stack, focusing on the infrastructure, data, and hybrid environments that make those applications reliable, secure, and sustainable inside large organizations.
           </p>
           <p>
-            I’ve spent years in entrepreneurship trying to grow businesses and I know how hard it is to get something off the ground. I’ve also spent time inside big companies, where I saw how much impact a founder mindset can have when the right people and systems are in place.
+            I've built startups from the ground up, and I've worked inside complex enterprises where progress depends on more than good ideas. What I've learned is this:
           </p>
-          
+
           <div className="py-6">
-            <p className="font-serif text-white text-xl italic mb-4">Here’s what I’ve learned:</p>
-            <p>
-                You don’t need a huge team if you have a smart AI stack.<br/>
-                You need people who know how to think like builders and use AI as leverage.
+            <p className="text-white text-lg">
+              AI adoption breaks down when systems aren't ready.<br/>
+              Infrastructure investments fall flat when teams don't know how to apply them.
+            </p>
+            <p className="mt-4 font-serif text-white text-xl italic">
+              Real progress happens when those two move together.
             </p>
           </div>
 
-          <p>
-            AI should give your team:
+          <p className="font-serif text-white text-xl">
+            Effective enterprise AI requires:
           </p>
-          <ul className="space-y-2 md:space-y-1">
-             <li className="text-white">Speed and leverage – <span className="text-slate-400">turning weeks of work into days or hours.</span></li>
-             <li className="text-white">Experimentation and rapid prototyping – <span className="text-slate-400">more bets, less bureaucracy.</span></li>
-             <li className="text-white">Higher-order work – <span className="text-slate-400">less grind, more thinking, leading, and creating.</span></li>
+          <ul className="space-y-3 text-left">
+             <li><span className="text-white font-medium">Applied AI that solves real problems</span> — <span className="text-slate-400">embedded in daily workflows, not isolated pilots.</span></li>
+             <li><span className="text-white font-medium">Infrastructure and architecture</span> — <span className="text-slate-400">that can support modern AI workloads across cloud, on-prem, and hybrid environments.</span></li>
+             <li><span className="text-white font-medium">Data that is accessible, governed, and trusted</span> — <span className="text-slate-400">so teams can move with confidence.</span></li>
+             <li><span className="text-white font-medium">Operating models</span> — <span className="text-slate-400">that turn experimentation into repeatable capability, not one-off wins.</span></li>
           </ul>
 
           <div className="pt-8">
-            <p className="mb-6">
-                And then there’s your network.
+            <p className="font-serif text-white text-xl mb-4">
+              When application and infrastructure are aligned, AI becomes leverage:
+            </p>
+            <ul className="space-y-2 text-left">
+               <li><span className="text-white font-medium">Faster cycles</span> — <span className="text-slate-400">moving from idea to production without friction.</span></li>
+               <li><span className="text-white font-medium">Safer experimentation</span> — <span className="text-slate-400">innovation without compromising stability or security.</span></li>
+               <li><span className="text-white font-medium">Higher-order work</span> — <span className="text-slate-400">less manual effort, more judgment, leadership, and creativity.</span></li>
+            </ul>
+          </div>
+
+          <div className="pt-8">
+            <p className="font-serif text-white text-xl mb-4">
+              And then there's the human layer.
             </p>
             <p>
-                Your network is an operating system, not a Rolodex. Take it seriously. Invest in people where you can give first. Use AI to scale yourself, but recognize that some of the most important conversations can’t be rushed. Sometimes going slower is actually how you have the most impact.
+              AI doesn't replace leadership or relationships — it amplifies them.
+              Your network, your culture, and your ability to bring people along matter as much as any system design. The most successful organizations invest in both: technical readiness and human readiness.
             </p>
           </div>
 
@@ -65,15 +77,9 @@ const About: React.FC = () => {
                 At the end of the day, what I care about is simple:
              </p>
              <p className="mt-4 text-white">
-                Helping you build teams that are lean, leveraged, and deeply human—teams that know how to use AI without losing the relationships and judgment that make the work meaningful.
+                Helping organizations build AI that people actually use, supported by infrastructure that can scale, and led by teams that remain thoughtful, accountable, and deeply human.
              </p>
           </div>
-
-          {/* <div className="pt-10 flex justify-center">
-            <button className="text-xs uppercase tracking-widest border border-slate-700 px-6 py-3 rounded-full hover:bg-slate-800 transition-colors">
-                More About Me
-            </button>
-          </div> */}
         </div>
       </div>
     </section>

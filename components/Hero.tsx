@@ -40,10 +40,10 @@ const Hero: React.FC = () => {
           <div className="md:flex md:space-x-12 lg:space-x-24">
             <div className="md:w-1/2">
               <h2 className="text-2xl font-serif text-slate-800 mb-4">
-                Exec teams want the speed and creativity of a startup without the chaos.
+                Enterprise AI fails when applications and infrastructure don't move together.
               </h2>
               <p className="text-slate-600 text-lg leading-relaxed mb-8">
-                I help mid- and large-company leaders bring practical AI into their organization so their teams can ship faster, stay lean, and operate like founders.
+                I help enterprise leaders align AI adoption with the infrastructure, data, and operating models needed to make it work at scale — moving from intention to real impact.
               </p>
               
               <div className="flex items-center space-x-2 text-sm text-slate-500 font-medium mb-12">

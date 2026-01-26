@@ -34,7 +34,7 @@ const Footer: React.FC = () => {
             Start building an AI-native team.
         </h2>
         <p className="text-slate-500 text-lg max-w-2xl mx-auto mb-10">
-            Join leaders who are using AI, founder mindset, and strong networks to create more leverage with less chaos.
+            Join leaders designing systems, teams, and networks that turn AI adoption into durable advantage.
         </p>
 
         <form onSubmit={handleFooterSubmit} className="space-y-3 mb-6">
