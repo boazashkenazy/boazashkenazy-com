@@ -25,7 +25,7 @@ const SocialProof: React.FC = () => {
         
         <div className="max-w-3xl mx-auto space-y-2 mt-16">
             <p className="text-sm font-semibold tracking-wide uppercase text-slate-500">
-                Co-founder of Augmented AI Labs, Clause, SuperSmall • Former PM at Meta
+                Senior Director AI Infra @ Redapt | Co-founder Augmented AI Labs, Clause, SuperSmall | Former Meta PM
             </p>
             <p className="text-slate-500 text-sm">
                 Keynote speaker at events including WTIA Seattle AI Week Summit, ConveyUX, SMX Munich, and more.
